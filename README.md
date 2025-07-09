@@ -51,22 +51,9 @@ Create a `.env` file in the root of the project:
 VITE_OMDB_API_KEY=your_omdb_api_key_here
 ```
 
-### 4. Run the App Locally
-```bash
-npm run dev
-```
-The app will be available at `http://localhost:5173/`
 
----
 
-## 📄 License
 
-This project is open-source and free to use.
 
----
-
-## 🙋‍♀️ Author
-
-Built with ❤️ by **Anushka Bhandarkar**
 
 
