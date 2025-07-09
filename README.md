@@ -34,18 +34,14 @@ This project demonstrates modern front-end practices including debounced search,
 
 ## 📦 Getting Started Locally
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/anushkab2508/mini-movie-explorer.git
-cd mini-movie-explorer
-```
 
-### 2. Install Dependencies
+
+### 1. Install Dependencies
 ```bash
 npm install
 ```
 
-### 3. Add Your OMDb API Key
+### 2. Add Your OMDb API Key
 Create a `.env` file in the root of the project:
 ```env
 VITE_OMDB_API_KEY=your_omdb_api_key_here
